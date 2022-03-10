@@ -5,7 +5,7 @@ author: afandy
 linkedin: https://www.linkedin.com/in/afandylamusu/
 gul.author: afandy
 gul.date: 03/10/2022
-gul.custom: vs-dotnet
+gul.custom: reactnative
 gul.topic: tutorial
 ---
 # Get started with .NET
