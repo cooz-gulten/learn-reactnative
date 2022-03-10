@@ -2,6 +2,7 @@
 title: Reactnative Authentication 
 description: Create react native app with firebase authentication.
 author: afandy
+linkedin: https://www.linkedin.com/in/afandylamusu/
 gul.author: afandy
 gul.date: 03/10/2022
 gul.custom: vs-dotnet
